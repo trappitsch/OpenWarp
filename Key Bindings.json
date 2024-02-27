@@ -1,0 +1,4 @@
+[
+	{ "keys": ["Ctrl+T"], "command": "open_warp_window" },
+	{ "keys": ["Ctrl+Shift+T"], "command": "open_warp_tab" }
+]
